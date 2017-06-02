@@ -11,15 +11,21 @@
 
 ```
 
-My name is:
+My name is: Heather
 
-I like to:
+I like to: Play board games and learn new things.
 
-I'm learning:
+I'm learning: Web development and how to use Github.
 
 ```
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
+
+
+<img src="tweet-pic.jpg">
+
+
+
 
 4. Push it up to your own repository on Github (don't try to override the original).
 
